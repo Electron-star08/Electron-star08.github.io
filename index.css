@@ -1,0 +1,38 @@
+body{
+  background-image: url("https://storage.googleapis.com/webdesignledger.pub.network/LaT/edd/2016/02/subtle-light-grunge-texture-1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+    img{
+      max-width: 100% ;
+    }
+a:link{
+    color:rgb(255, 102, 0);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color:Red;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  .Novel{
+    border-radius: 50%;
+    height:200px;
+    width:200px;
+    align-self: center;
+    box-shadow: rgb(12, 10, 10) 2px 5px 5px;
+}

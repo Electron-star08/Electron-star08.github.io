@@ -1,0 +1,43 @@
+body{
+    background-image: url("https://storage.googleapis.com/webdesignledger.pub.network/LaT/edd/2016/02/subtle-light-grunge-texture-1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.profile{
+    border-radius: 50%;
+    height:200px;
+    width:200px;
+    align-self: center;
+    box-shadow: rgb(12, 10, 10) 2px 5px 5px;
+
+}
+.header-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:10px;
+
+}
+.interest{
+    align-self: center;   
+}
+a:hover{
+    color:blue;
+}
+.skills{
+    align-self: center; 
+}
+.language{
+    align-content:center; 
+}

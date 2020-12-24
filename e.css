@@ -1,0 +1,37 @@
+
+img {
+    
+    max-width: 100% ;
+   
+  }
+          a:link{
+            color:blue;
+            background-color: transparent;
+            text-decoration: none;
+        }
+        a:visited {
+            color:green;
+            background-color: transparent;
+            text-decoration: none;
+          }
+          
+          a:hover {
+            color: black;
+            background-color: transparent;
+            text-decoration: underline;
+          }
+          
+          a:active {
+            color: yellow;
+            background-color: transparent;
+            text-decoration: underline;
+          }
+
+.m{
+    border-radius: 50%;
+    height:200px;
+    width:200px;
+    align-self: center;
+    box-shadow: rgb(12, 10, 10) 2px 5px 5px;
+}
+    
